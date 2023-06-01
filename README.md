@@ -4,9 +4,9 @@ WLS, geliştirilmiş bir lisans sistemidir, kullanıcılar bu sistem ile kodlar�
 WLS [node.js](https://nodejs.org/tr) kullanılarak geliştirilmiştir.
 ## Gerekli modüller
 
-winner-license-system'i kullanmak için gerekli modüller;\
+winner-license-system'i kullanmak için gerekli modüller;
 
-Client taraflı kodlar için:
+Client taraflı kodlar için:\
 [discord.js](https://discord.js.org/)\
 [fs](https://www.npmjs.com/package/fs)\
 [axios](https://www.npmjs.com/package/axios)\
@@ -18,7 +18,7 @@ Client taraflı kodlar için:
   npm i discord.js fs axios screenshot-desktop child_process os
 ```
 
-Server taraflı kodlar için:
+Server taraflı kodlar için:\
 [discord.js](https://discord.js.org/)\
 [fs](https://www.npmjs.com/package/fs)\
 [express](https://www.npmjs.com/package/express)
